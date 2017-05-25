@@ -1,0 +1,17 @@
+body{
+  background-color: skyblue;
+}
+.git{
+  color: green ;
+
+}
+.flashy{
+  text-align: center;
+  color: red;
+  font-style:italic;
+}
+.best{
+  color: black;
+  font-size: 19 px;
+  font-weight: 900;
+}
